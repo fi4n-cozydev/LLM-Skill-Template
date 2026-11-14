@@ -1,10 +1,12 @@
-# LLM-Skill-Template-by-CBTU-MU
+# LLM-Skill-Template-by-CBTU-MU:
 
 ##### Google Antigravity Workshop Outline
 - Course Ref. --> [here](https://cbtumu.net/coursenew/cbtu-ai-day-ai-for-work/)
 - Slide/Prompt/Tutorial --> [here](https://claude.ai/artifact/V4k8UXsE9qRm6AEEK8f8SL)
 - Download Skill --> [here](https://skillsmp.com/)
 - Markdown Cheat Sheet --> [here](https://www.datacamp.com/cheat-sheet/markdown-cheat-sheet-23)
+
+# Skill Config:
 
 **Workspace-Skill**
 ```
@@ -22,7 +24,7 @@ Antigravity Desktop: ~/.gemini/config/skills/{skill-name}/
 Antigravity CLI: ~/.gemini/antigravity-cli/skills/{skill-name}/
 ```
 
-# Skill Structere
+# Skill Structure:
 | **section** | **role** |
 |----------:|:----------|
 |SKILL.md|Name, description, and instructions|
@@ -30,7 +32,7 @@ Antigravity CLI: ~/.gemini/antigravity-cli/skills/{skill-name}/
 |assets/|Templates used to generate outputs|
 |scripts/|Programs for processing, as needed|
 
-# Skill Template
+# Skill Template:
 ```
 ---
 name: ชื่อ-skill-ภาษาอังกฤษ-ตัวเล็ก
