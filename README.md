@@ -218,3 +218,20 @@ The final output will be a comprehensive, clearly formatted employee work schedu
    7. Result
    8. Report
    9. Publish
+
+# Hybrid Intelligence Research Framework
+   1. Problem Framing & Research Focus
+   2. Literature Review & Knowledgge Expansion
+   3. Research Design & Method Planning
+   4. Data Work & Analytical Reasoning
+   5. Scholarly Writing, Reflection & Knowledge Contribution
+
+# Writing Process (Pro Tips)
+   1. Issue/Topic
+   2. Chapter 2 - Literature Review & Gap Analysis
+   3. Chapter 3 - Methodology
+   4. Chapter 4 - Result & Discussion
+   5. Chapter 5 - Conclusion
+   6. Chapter 1 - Introduction
+   7. Abstract
+   8. Publishing
