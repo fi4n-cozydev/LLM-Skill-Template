@@ -248,3 +248,5 @@ The final output will be a comprehensive, clearly formatted employee work schedu
    - [Consensus](https://consensus.app/) | Consensus meter, specialized for health and medical fields
    - [Scopus](https://www.scopus.com/pages/home) | Large, reliable database; concept maps; deep research capabilities
    - [Gemini Notebook](https://notebook.google.com) | Analyzes uploaded documents, minimizes hallucinations, generates mind maps
+   - [Google Scholar](https://scholar.google.com/)
+   - [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
