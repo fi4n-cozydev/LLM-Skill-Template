@@ -1,11 +1,16 @@
 # LLM-Skill-Template-by-CBTU-MU:
 
 ## Google Antigravity Workshop Outline
-- Course Ref. --> [here](https://cbtumu.net/coursenew/cbtu-ai-day-ai-for-work/)
-- Markdown Cheat Sheet --> [here](https://github.com/lifeparticle/Markdown-Cheatsheet)
-- Slide/Prompt/Tutorial --> [here](https://claude.ai/artifact/V4k8UXsE9qRm6AEEK8f8SL)
-- Agent Skills Marketplace --> [here](https://skillsmp.com/)
-- Agent Skills by Taweesak (Swimlane Diagram) --> [here](https://github.com/toche7/mySkills)
+   - Markdown Cheat Sheet --> [here](https://github.com/lifeparticle/Markdown-Cheatsheet)
+   - Slide/Prompt/Tutorial --> [here](https://claude.ai/artifact/V4k8UXsE9qRm6AEEK8f8SL)
+   - Agent Skills Marketplace --> [here](https://skillsmp.com/)
+   - Agent Skills by Taweesak (Swimlane Diagram) --> [here](https://github.com/toche7/mySkills)
+
+#### CBTU AI Day : AI for Work
+   - [Course Ref.](https://cbtumu.net/coursenew/cbtu-ai-day-ai-for-work/)
+
+#### CBTU AI Day : AI for Research
+   - [Course Ref.](https://cbtumu.net/coursenew/cbtu-ai-day-ai-for-research/)
 
 ## Effective Prompt Engineer 
 > **`Persona --> Task --> Context --> Format`**
