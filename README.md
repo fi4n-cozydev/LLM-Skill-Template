@@ -4,7 +4,7 @@
 - Course Ref. --> [here](https://cbtumu.net/coursenew/cbtu-ai-day-ai-for-work/)
 - Slide/Prompt/Tutorial --> [here](https://claude.ai/artifact/V4k8UXsE9qRm6AEEK8f8SL)
 - Download Skill --> [here](https://skillsmp.com/)
-- Markdown Cheat Sheet --> [here](https://www.datacamp.com/cheat-sheet/markdown-cheat-sheet-23)
+- Markdown Cheat Sheet --> [here](https://github.com/lifeparticle/Markdown-Cheatsheet)
 
 # Skill Config:
 
@@ -26,7 +26,7 @@ Antigravity CLI: ~/.gemini/antigravity-cli/skills/{skill-name}/
 
 # Skill Structure:
 | **section** | **role** |
-|----------:|:----------|
+|-:|:-|
 |SKILL.md|Name, description, and instructions|
 |references/|Criteria or reference documents|
 |assets/|Templates used to generate outputs|
@@ -49,7 +49,7 @@ description: Skill นี้ทำอะไร และควรเรียก
 ## คำแนะนำ
 Workflow แบบเป็นขั้นตอน
 1. ...
-2. ...
+2. ..
 3. ...
 
 ## กฎ
@@ -72,3 +72,37 @@ assets/examples/   ไฟล์ต้นแบบ (.docx/.pdf)
 scripts/           สคริปต์ช่วยงาน เช่น md_to_docx.py
 -->
 ```
+
+# _Project Proposal Development Process_
+
+# `AS-IS: - Workflow`
+1. `_Strategic Plane_`
+2. `_Meeting_`
+3. `_Department Meeting_`
+4. `_Prepare Proposal_`
+   - Issue
+      - idea
+      - document
+      - Standard
+      - code
+5. `_Head Department Sign_`
+    - Issue
+      - take time
+      - large document deck.
+      - Not complete
+6. `_Check Strategic Department_`
+   - Issue
+      - Not complete
+      - Code
+      - TOR. (Terms of Reference)
+      - quotation
+
+# `TO-BE: - Workflow`
+1. _`Strategic Plane`_
+2. _`Meeting`_
+3. _`Department Meeting`_
+4. _`AI Draft Prososal`_
+    - _Human Check Proposal_
+    - _AI Check Proposal Aligment with PLan and Standard_
+5. _`Head Department Sign`_
+6. _`Check Stategic Department`_
