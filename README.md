@@ -201,3 +201,15 @@ The final output will be a comprehensive, clearly formatted employee work schedu
          2. Result
    4. Report
    5. Publish
+
+# Data Science Research Process
+   1. Data / Big Data / Literature Review
+      - Literature Review
+   2. Data Exploration
+   3. Research Question / Hypothesis
+   4. Data Preprocessing
+   5. Modeling
+   6. Evaluation
+   7. Result
+   8. Report
+   9. Publish
