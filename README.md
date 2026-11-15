@@ -5,6 +5,7 @@
 - Slide/Prompt/Tutorial --> [here](https://claude.ai/artifact/V4k8UXsE9qRm6AEEK8f8SL)
 - Download Skill --> [here](https://skillsmp.com/)
 - Markdown Cheat Sheet --> [here](https://github.com/lifeparticle/Markdown-Cheatsheet)
+- Workflow Discovery Coach --> [here](https://github.com/toche7/mySkills)
 
 ## Effective Prompt Engineer 
 > **`Persona --> Task --> Context --> Format`**
