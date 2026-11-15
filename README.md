@@ -41,12 +41,22 @@ Antigravity CLI: ~/.gemini/antigravity-cli/skills/{skill-name}/
 ```
 
 # Skill Element Structure:
-| **section** | **role** |
+| **SECTION** | **ROLE** |
 |-:|:-|
 |SKILL.md|Name, description, and instructions|
 |references/|Criteria or reference documents|
 |assets/|Templates used to generate outputs|
 |scripts/|Programs for processing, as needed|
+
+## `Skill Implement Stage`
+   1. Create Skills
+      1. Target task
+   2. Verification
+      1. Create Test case using AI
+      2. Testing Test case (*`.md files`*)
+   4. Improvement
+      1. Error logs
+
 
 # Skill Template:
 ```
