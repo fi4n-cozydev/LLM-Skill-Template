@@ -171,8 +171,10 @@ The final output will be a comprehensive, clearly formatted employee work schedu
 5. _`Head Department Sign`_
 6. _`Check Stategic Department`_
 
+# Basic Research Process
+>### _`Define a topic`_ --> _`Do Research`_ --> _`Publish`_
 ---
-# General Research Process
+>### General Research Process
    1. Isue
    2. Research Question
    3. Theory and Related WOrk Review
@@ -184,10 +186,10 @@ The final output will be a comprehensive, clearly formatted employee work schedu
    9. Report
    10. Publish
 
-# Engineering Research Process
+>### Engineering Research Process
    1. Issue
       1. Literature Review
-   2. NEw Idea
+   2. New Idea
       1. Theory and Related Work Review
    3. Design
       1. Math Model
@@ -202,7 +204,7 @@ The final output will be a comprehensive, clearly formatted employee work schedu
    4. Report
    5. Publish
 
-# Data Science Research Process
+>### Data Science Research Process
    1. Data / Big Data / Literature Review
       - Literature Review
    2. Data Exploration
