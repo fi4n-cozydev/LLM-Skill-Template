@@ -1,4 +1,4 @@
-# LLM-Skill-Template-by-CBTU-MU:
+# LLM-Skill-Template:
 
 ## Google Antigravity Workshop Outline
    - Markdown Cheat Sheet --> [here](https://github.com/lifeparticle/Markdown-Cheatsheet)
@@ -6,10 +6,13 @@
    - Agent Skills Marketplace --> [here](https://skillsmp.com/)
    - Agent Skills by Taweesak (Swimlane Diagram) --> [here](https://github.com/toche7/mySkills)
 
-#### CBTU AI Day : AI for Work
+### AI Boost Bootcamp: How to Use Gemini at Work 101:
+   - [Course Ref.](https://www.skills.google/course_templates/1674)
+
+### CBTU AI Day : AI for Work:
    - [Course Ref.](https://cbtumu.net/coursenew/cbtu-ai-day-ai-for-work/)
 
-#### CBTU AI Day : AI for Research
+### CBTU AI Day : AI for Research:
    - [Course Ref.](https://cbtumu.net/coursenew/cbtu-ai-day-ai-for-research/)
 
 ## Effective Prompt Engineer 
