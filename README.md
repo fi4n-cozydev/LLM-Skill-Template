@@ -48,7 +48,7 @@ Antigravity CLI: ~/.gemini/antigravity-cli/skills/{skill-name}/
 |assets/|Templates used to generate outputs|
 |scripts/|Programs for processing, as needed|
 
-## `Skill Implement Stage`
+## `Skill Implementation Stage`
    1. Create Skills
       1. Target task
    2. Verification
