@@ -170,3 +170,34 @@ The final output will be a comprehensive, clearly formatted employee work schedu
     - _AI Check Proposal Aligment with PLan and Standard_
 5. _`Head Department Sign`_
 6. _`Check Stategic Department`_
+
+---
+# General Research Process
+   1. Isue
+   2. Research Question
+   3. Theory and Related WOrk Review
+   4. REesearch Hypothesis
+   5. Research Design
+   6. Instrument / Tool Validation
+   7. Data Collection
+   8. Data Analysis
+   9. Report
+   10. Publish
+
+# Engineering Research Process
+   1. Issue
+      1. Literature Review
+   2. NEw Idea
+      1. Theory and Related Work Review
+   3. Design
+      1. Math Model
+         1. Evaluation
+         2. Result
+      2. Simulation
+         1. Evaluation
+         2. Result
+      3. Implementation
+         1. Evaluation
+         2. Result
+   4. Report
+   5. Publish
