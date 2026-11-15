@@ -181,7 +181,7 @@ The final output will be a comprehensive, clearly formatted employee work schedu
    1. Isue
    2. Research Question
    3. Theory and Related WOrk Review
-   4. REesearch Hypothesis
+   4. Research Hypothesis
    5. Research Design
    6. Instrument / Tool Validation
    7. Data Collection
@@ -235,3 +235,16 @@ The final output will be a comprehensive, clearly formatted employee work schedu
    6. Chapter 1 - Introduction
    7. Abstract
    8. Publishing
+
+# Stage 1 --> Prompt
+   - `Treand:` "Suggest emerging research topics in the use of AI in higher education, with a focus on ethical implications and policy."
+   - `Specific Topic:` "Give me 5 research topics combining GenAI and statistical literacy for government employees."
+   - `Gap:`"What are the research gaps in applying Generative AI in public sector data analysis?"
+
+# Research Tools
+   - [SciSpace](https://scispace.com/th) | Data organization, AI writer, citation generator
+   - [Paper Finder](https://github.com/allenai/asta-paper-finder) | Semantic search, explanation of recommendations, free bibliography export
+   - [Elicit](https://elicit.com/) | PICO framework, structured data extraction, access to 125 million papers
+   - [Consensus](https://consensus.app/) | Consensus meter, specialized for health and medical fields
+   - [Scopus](https://www.scopus.com/pages/home) | Large, reliable database; concept maps; deep research capabilities
+   - [NotebookLM](https://notebook.google.com) | Analyzes uploaded documents, minimizes hallucinations, generates mind maps
