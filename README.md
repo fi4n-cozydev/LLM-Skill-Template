@@ -75,7 +75,7 @@ scripts/           สคริปต์ช่วยงาน เช่น md_to
 
 # _Project Proposal Development Process_
 
-# `AS-IS: - Workflow`
+## **AS-IS: --> !Old Workflow**
 1. `_Strategic Plane_`
 2. `_Meeting_`
 3. `_Department Meeting_`
@@ -97,7 +97,7 @@ scripts/           สคริปต์ช่วยงาน เช่น md_to
       - TOR. (Terms of Reference)
       - quotation
 
-# `TO-BE: - Workflow`
+## *TO-BE: --> !NEW Workflow*
 1. _`Strategic Plane`_
 2. _`Meeting`_
 3. _`Department Meeting`_
