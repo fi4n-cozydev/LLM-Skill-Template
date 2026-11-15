@@ -247,4 +247,4 @@ The final output will be a comprehensive, clearly formatted employee work schedu
    - [Elicit](https://elicit.com/) | PICO framework, structured data extraction, access to 125 million papers
    - [Consensus](https://consensus.app/) | Consensus meter, specialized for health and medical fields
    - [Scopus](https://www.scopus.com/pages/home) | Large, reliable database; concept maps; deep research capabilities
-   - [NotebookLM](https://notebook.google.com) | Analyzes uploaded documents, minimizes hallucinations, generates mind maps
+   - [Gemini Notebook](https://notebook.google.com) | Analyzes uploaded documents, minimizes hallucinations, generates mind maps
