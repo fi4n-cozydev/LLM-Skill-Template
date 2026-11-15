@@ -124,21 +124,21 @@ The final output will be a comprehensive, clearly formatted employee work schedu
 # _Project Proposal Development Process_
 
 > <ins>AS-IS: --> (!Old) Workflow</ins>
-1. `_Strategic Plane_`
-2. `_Meeting_`
-3. `_Department Meeting_`
-4. `_Prepare Proposal_`
+1. _`Strategic Plane`_
+2. _`Meeting`_
+3. _`Department Meeting`_
+4. _`Prepare Proposal`_
    - Issue
       - idea
       - document
       - Standard
       - code
-5. `_Head Department Sign_`
+5. _`Head Department Sign`_
     - Issue
       - take time
       - large document deck.
       - Not complete
-6. `_Check Strategic Department_`
+6. _`Check Strategic Department`_
    - Issue
       - Not complete
       - Code
