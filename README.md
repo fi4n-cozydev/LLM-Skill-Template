@@ -1,13 +1,28 @@
 # LLM-Skill-Template-by-CBTU-MU:
 
-##### Google Antigravity Workshop Outline
+## Google Antigravity Workshop Outline
 - Course Ref. --> [here](https://cbtumu.net/coursenew/cbtu-ai-day-ai-for-work/)
 - Slide/Prompt/Tutorial --> [here](https://claude.ai/artifact/V4k8UXsE9qRm6AEEK8f8SL)
 - Download Skill --> [here](https://skillsmp.com/)
 - Markdown Cheat Sheet --> [here](https://github.com/lifeparticle/Markdown-Cheatsheet)
 
-# Skill Config:
+## Effective Prompt Engineer 
+> **`Persona --> Task --> Context --> Format`**
+```
+(1) Persona 
+I am a customer service representative.
 
+(2) Task 
+I need to write a letter responding to a customer complaint. 
+
+(3) Context 
+The customer ordered a pair of headphones that arrived damaged. They've already contacted us via email and provided pictures of the damage. I've offered a replacement, but they're requesting an expedited shipping option that isn't typically included in that order. Include a paragraph that acknowledges their frustration 
+
+(4) Format 
+three bulletpoints with potential resolutions.
+```
+
+# Skill Config:
 **Workspace-Skill**
 ```
 Antigravity Desktop: C:\Users\{yourUsername}\Desktop\ICCS-Skill-Workshop\.agents\skills\{skill-name}\
@@ -24,7 +39,7 @@ Antigravity Desktop: ~/.gemini/config/skills/{skill-name}/
 Antigravity CLI: ~/.gemini/antigravity-cli/skills/{skill-name}/
 ```
 
-# Skill Structure:
+# Skill Element Structure:
 | **section** | **role** |
 |-:|:-|
 |SKILL.md|Name, description, and instructions|
@@ -73,9 +88,42 @@ scripts/           สคริปต์ช่วยงาน เช่น md_to
 -->
 ```
 
+## Build custom AI agents with Gemini Enterprise
+> **`Brains > Context > Taskforce > Partners Ecosystem > Workbench > Governance`**
+
+   - Brains and context set the foundation for your task force.
+   - A library of AI agents, each dedicated to a single task to help you work. 
+```
+      1. setup agent's persona and goals
+      2. divide its goals into subtask
+      3. create instructions
+      4. create a comparison to show different options
+```
+
+> <ins>TO CREAT AN AGENT :</ins>
+```
+Name: Scheduling agent
+Description: Let's get scheduling!
+
+Instruction: 
+ROLE : AGENT PERSONA
+You are an expert at staffing a store's shifts based on employee availability and preferences and policies. You will create an optimized work schedule, analyze it for conflicts, and present the final schedule and conflict report. You will use Gmail to send the schedule to staff if requested by the user.
+
+OUTPUT EXPECTATIONS : GOALS
+The final output will be a comprehensive, clearly formatted employee work schedule accompanied by a distinct conflict report.
+1. The output table must present the daily shifts, assigned employees, and their designated backups, with each date, time/shift, and staffing recommendations clear and readable.
+2. Each shift should have two people scheduled. Afternoon shifts should preferably have three employees. An available backup employbe must be noted for each shift. No employee should be scheduled for more than 40 hours per week unless it is unavoidable.
+3. The conflict report must be presented in a distinct section following the schedule table.
+4. The conflict report should clearly list any identified issues, the affected employee(s) or shift(s), and the reason for requiring user attention.
+5. Before outputting your results, check them again for any errors. If conflicts persist, consider whether any alternate schedules are possible that could satisfy these conflicts without introducing new ones. Only when you have optimized and checked your work should you output.
+6. The entire output must be clean, use appropriate headers, and be easily digestible for the user.
+7. Do not include preamble about what steps you plan to do. Just output the final report.
+8. The final report should start with the schedule table, then list any conflicts or notes that could note be addressed. That is all.
+```
+
 # _Project Proposal Development Process_
 
-## **AS-IS: --> !Old Workflow**
+> <ins>AS-IS: --> (!Old) Workflow</ins>
 1. `_Strategic Plane_`
 2. `_Meeting_`
 3. `_Department Meeting_`
@@ -97,7 +145,7 @@ scripts/           สคริปต์ช่วยงาน เช่น md_to
       - TOR. (Terms of Reference)
       - quotation
 
-## *TO-BE: --> !NEW Workflow*
+> <ins>TO-BE: --> (!NEW) Workflow</ins>
 1. _`Strategic Plane`_
 2. _`Meeting`_
 3. _`Department Meeting`_
